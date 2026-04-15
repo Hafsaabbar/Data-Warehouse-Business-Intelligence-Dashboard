@@ -108,13 +108,16 @@ Main libraries used:
 ---
 
 ## Project Structure
+
 project/
-│── data/
-│── etl/
-│── sql/
-│── dashboards/
-│── notebooks/
+│── AI/
+│── DASHBOARD/
+│── DATA/
+│── ETL/
+│── SQL/
+|── DEMO_DWH
 │── README.md
+
 ---
 
 ### 4. Open dashboards
