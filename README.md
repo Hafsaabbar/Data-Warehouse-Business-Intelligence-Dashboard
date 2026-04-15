@@ -108,3 +108,57 @@ Main libraries used:
 ---
 
 ## Project Structure
+project/
+│── data/
+│── etl/
+│── sql/
+│── dashboards/
+│── notebooks/
+│── README.md
+---
+
+### 4. Open dashboards
+- Open Power BI files (.pbix) using Microsoft Power BI  
+
+---
+
+## Dataset
+
+The dataset used in this project is based on Superstore Sales data.
+
+Due to size limitations, it is not included in this repository.
+
+You can download it from:  
+https://www.kaggle.com/
+
+---
+
+## Results
+
+- Successful implementation of a structured Data Warehouse  
+- Clean and consistent dataset for analysis  
+- Interactive dashboards for multiple business roles  
+- Integration of predictive and analytical models  
+
+---
+
+## Future Improvements
+
+- Automate ETL pipeline (scheduled jobs)  
+- Deploy system on cloud infrastructure  
+- Integrate real-time data sources  
+- Enhance machine learning models  
+
+---
+
+## Team Members
+
+- Hafsa Abbar  
+- Assia Rguibi  
+- Halima Anejari  
+- Zainab Farih  
+
+
+## License
+
+This project is developed for academic purposes.
